@@ -7,5 +7,5 @@
 #### In this repository, some of the code are divided into folders:
 
 -   `duo_trio` - Code developed in duo/trios in collaboration with classmates.
--   `in_class` - Exercises done for learning.
+-   `in_class` - Exercises done in class.
 -   `lists` - Resolution of exercise lists.
